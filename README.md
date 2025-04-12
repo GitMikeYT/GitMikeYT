@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @GitMikeYT
-Youtube : https://www.youtube.com/channel/UCUDtfPHswyHcNdso1NhMJ6w
-
-I do stuff
-
-I like HTML
+g
 
 <!---
 GitMikeYT/GitMikeYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
